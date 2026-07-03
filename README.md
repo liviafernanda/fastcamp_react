@@ -1,4 +1,4 @@
-Este código fonte é parte das atividades propostas pelo Fastcamp de Agentes Inteligentes do Laboratório de Aprendizado de Máquina - LAMIA
+Este código fonte é parte das atividades propostas pelo Fastcamp de Agentes Inteligentes do Laboratório de Aprendizado de Máquina - LAMIA -
 Card 2. Prática de Python: Criando um ReAct Agente do Zero (I)
 
 Lívia Fernanda de Oliveira | 
